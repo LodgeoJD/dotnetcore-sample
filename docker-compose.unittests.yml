@@ -6,4 +6,4 @@ services:
       - .:/code
     command:
       - /bin/bash
-- /code/docker-run-unittests.sh
+      - /code/docker-run-unittests.sh
